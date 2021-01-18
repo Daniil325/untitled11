@@ -17,5 +17,5 @@ fun main(){
         "2" -> {view.selectCulture(culture2)}
     }
     println("Зa сколько продадим культуру")
-    println("Прибыль составила ${view.sell(readLine()!!.toInt())}")
+    println("илья гей ${view.sell(readLine()!!.toInt())}")
 }
